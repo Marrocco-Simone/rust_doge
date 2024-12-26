@@ -1,0 +1,13 @@
+/target
+/.cargo
+log_dogemarket.txt
+bose.log
+log_RCNZ.txt
+log_SOL.txt
+rss_output.txt
+*.svg
+BOSE_account_history.svg
+DOGE_account_history.svg
+RCNZ_account_history.svg
+SOL_account_history.svg
+simulation.txt

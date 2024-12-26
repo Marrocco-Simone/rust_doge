@@ -1,0 +1,10 @@
+{"transactions": [
+{"is_buy": 0, "quantity": 138883.00, "good_type": "usd", "euros_payed": 86404.12, "standard_change": 134088.00, "market_start": 1000000.00, "market_end": 1047683.88, "gain_percenteage": 4.76839},
+{"is_buy": 0, "quantity": 233639.00, "good_type": "yen", "euros_payed": 1047.12, "standard_change": 1626.84, "market_start": 1047683.88, "market_end": 1048263.62, "gain_percenteage": 0.05534},
+{"is_buy": 0, "quantity": 83304.00, "good_type": "usd", "euros_payed": 27862.81, "standard_change": 80427.90, "market_start": 1048263.62, "market_end": 1100828.75, "gain_percenteage": 5.01449},
+{"is_buy": 1, "quantity": 29847.00, "good_type": "usd", "euros_payed": 8997.01, "standard_change": 28816.52, "market_start": 1100828.75, "market_end": 1081009.25, "gain_percenteage": -1.80042},
+{"is_buy": 1, "quantity": 137389.00, "good_type": "yen", "euros_payed": 553.83, "standard_change": 956.65, "market_start": 1081009.25, "market_end": 1080606.38, "gain_percenteage": -0.03727},
+{"is_buy": 0, "quantity": 219899.00, "good_type": "usd", "euros_payed": 46783.87, "standard_change": 212306.89, "market_start": 1080606.38, "market_end": 1239480.38, "gain_percenteage": 14.70230},
+{"is_buy": 1, "quantity": 112789.00, "good_type": "usd", "euros_payed": 25193.58, "standard_change": 108894.91, "market_start": 1239480.38, "market_end": 1155779.12, "gain_percenteage": -6.75293},
+{"is_buy": 0, "quantity": 231893.00, "good_type": "usd", "euros_payed": 42918.88, "standard_change": 223886.80, "market_start": 1155779.12, "market_end": 1330634.25, "gain_percenteage": 15.12877}
+]}

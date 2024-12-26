@@ -1,0 +1,10 @@
+[package]
+name = "doge_common"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# http://advancedprogramming.disi.unitn.it:8000/#/crate?name=unitn_market_2022
+unitn_market_2022 = { version = "1.0.10", registry = "kellnr" }

@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "doge_common",
+    "doge_market",
+    "doge_trader"
+]

@@ -1,0 +1,19 @@
+[package]
+name = "doge"
+version = "1.0.1"
+edition = "2021"
+
+[lib]
+name = "dogemarket"
+path = "src/lib.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# http://advancedprogramming.disi.unitn.it:8000/#/crate?name=unitn_market_2022
+unitn_market_2022 = { version = "1.0.10", registry = "kellnr" }
+doge_common = { path = "../doge_common" }
+chrono = { version = "0.4.23" }
+uuid = { version = "1.2.1", features = ["v4"] }
+assert_approx_eq = { version = "1.1.0" }
+rand = { version = "0.8.5" }
